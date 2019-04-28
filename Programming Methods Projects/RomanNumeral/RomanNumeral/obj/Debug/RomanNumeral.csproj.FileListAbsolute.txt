@@ -1,0 +1,11 @@
+C:\home\tomek\PJWSTK\MPR\2018\Proj\RomanNumeral\RomanNumeral\bin\Debug\RomanNumeral.dll
+C:\home\tomek\PJWSTK\MPR\2018\Proj\RomanNumeral\RomanNumeral\bin\Debug\RomanNumeral.pdb
+C:\home\tomek\PJWSTK\MPR\2018\Proj\RomanNumeral\RomanNumeral\obj\Debug\RomanNumeral.csprojAssemblyReference.cache
+C:\home\tomek\PJWSTK\MPR\2018\Proj\RomanNumeral\RomanNumeral\obj\Debug\RomanNumeral.csproj.CoreCompileInputs.cache
+C:\home\tomek\PJWSTK\MPR\2018\Proj\RomanNumeral\RomanNumeral\obj\Debug\RomanNumeral.dll
+C:\home\tomek\PJWSTK\MPR\2018\Proj\RomanNumeral\RomanNumeral\obj\Debug\RomanNumeral.pdb
+D:\1.to wiktora\DlaBorzysza\RomanNumeral\RomanNumeral\bin\Debug\RomanNumeral.dll
+D:\1.to wiktora\DlaBorzysza\RomanNumeral\RomanNumeral\bin\Debug\RomanNumeral.pdb
+D:\1.to wiktora\DlaBorzysza\RomanNumeral\RomanNumeral\obj\Debug\RomanNumeral.csproj.CoreCompileInputs.cache
+D:\1.to wiktora\DlaBorzysza\RomanNumeral\RomanNumeral\obj\Debug\RomanNumeral.dll
+D:\1.to wiktora\DlaBorzysza\RomanNumeral\RomanNumeral\obj\Debug\RomanNumeral.pdb

@@ -1,0 +1,23 @@
+body
+{
+    background-image: url("img/newbg.png");
+}
+
+h1
+{
+    text-align: left;
+    text-shadow: 2px 2px 5px blue;
+    padding-left: 5%;
+}
+h2
+{
+    text-align: right;
+    text-shadow: 2px 2px 5px blue;
+    padding-right: 5%;
+    margin-top: -20%;
+}
+.choose
+{
+    margin-left: 37%;
+    margin-top: -3%;
+}

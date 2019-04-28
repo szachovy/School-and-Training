@@ -1,0 +1,21 @@
+MPR
+===============
+Laboratorium 1
+===============
+
+1. Zalozyc konto na visualstudio.com; utworzyc pierwszy projekt typu Hello World i przecwiczyÄ prace z projektem.
+
+2. TDD. (.Net Framework lub Core) 
+	Naszym celem jest stworzenie biblioteki umozliwiajÄcej konwersje liczb rzymskich na arabskie (funkcja fromRoman) i odwrotnie (toRoman).
+	Zanim przystapimy do implementacji chcemy zapisac wlasnosci takiej konwersji za pomocÄ testow jednostkowych.
+	
+	Zadanie:
+		a) Przygotowac w wybranym frameworku testowym: NUnit, xUnit, MSTest testy, ktore stanowia kompletny (lub prawie kompletny) zbior wymagan.
+		b) Zaprezentowac etapy implementacji jako probe spelnienia jednego lub wiecej testow.
+		c) Zaprezentowac kompletna implementacje problemu; odpowiedziec na pytania:
+			czy testy z punktu a) sa testami pokrycia?
+			czy w cyklu produkcji rozwiazania wystapily testy regresyjne
+
+
+Opis Azure DevOps Services: 
+https://docs.microsoft.com/en-us/azure/devops/user-guide/what-is-azure-devops-services?view=vsts

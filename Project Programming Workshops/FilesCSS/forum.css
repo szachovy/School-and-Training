@@ -1,0 +1,89 @@
+body
+{
+    background-image: url("img/newbg.png");
+}
+h1
+{
+    font-family: 'Raavi',cursive;
+    font-style: italic;
+    text-shadow: 2px 2px 5px blue;
+    font-size: 32px;
+    font-weight: 300;
+    text-align: center;
+    letter-spacing: 3px;
+    margin-top: -20px;
+    margin-bottom: 20px;
+}
+h2
+{
+    text-align: center;
+    font-family: 'Raavi',cursive;
+    font-style: italic;
+    text-shadow: 2px 2px 5px darkviolet;
+    font-size: 16px;
+    font-weight: 200;
+    letter-spacing: 3px;
+    margin-top: -20px;
+    margin-bottom: 20px;
+}
+.greetings
+{
+    margin-top: -20%;
+    margin-left: 45%;
+    text-shadow: 2px 2px 5px blue;
+    font-size: 40px;
+}
+a:link {
+    font-size: x-large;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    font-size: xx-large;
+    color: blueviolet;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    font-size: xx-large;
+    color: blueviolet;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    font-size: xx-large;
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+ul {
+    list-style-type: none;
+    margin-top: 10%;
+    padding: 5px;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+table
+{
+    border: 1px slateblue;
+
+}

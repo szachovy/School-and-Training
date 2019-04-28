@@ -1,0 +1,5 @@
+DROP TABLE instruktorzy CASCADE;
+DROP TABLE kursanci CASCADE;
+DROP TABLE kurs;
+DROP TABLE pojazdy;
+DROP TABLE szkola CASCADE;
