@@ -1,3 +1,0 @@
-#
-#Tue Nov 06 19:58:08 CET 2018
-task-tag-projects-already-scanned=authorization,JAZ2
