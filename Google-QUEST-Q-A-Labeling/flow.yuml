@@ -1,0 +1,31 @@
+// {type:state}
+// {generate:true}
+
+(start)_Start kernel->(Kernel is running)
+(Kernel is running)_Set up env->(Retrieve)
+
+(Retrieve)___Import modules->(EDA)
+(Retrieve)___Reading Data->(EDA)
+
+(EDA)____Data Description->(FE)
+(EDA)____Host Distribution Visualization->(FE)
+(EDA)____Categories Distribution->(FE)
+(EDA)____Common features->(FE)
+(EDA)____Length of contents->(FE)
+(EDA)____Most popular questions->(FE)
+
+(FE)___Cleaning->(Modelling)
+(FE)___Dummies->(Modelling)
+(FE)___TF-IDF with SVD->(Modelling)
+(FE)___Vectorization with BERT->(Modelling)
+
+(Modelling)___Model BERT > LSTM->(Deployment)
+(Modelling)___Model TFIDF > DENSE->(Deployment)
+(Modelling)___Model BERT > MultiTaskElasticNet->(Deployment)
+(Modelling)___Spearman Callback->(Deployment)
+
+
+(Deployment)__Fitting->(Feedback)
+(Deployment)__Metrics->(Feedback)
+
+(Feedback)__Submission->(end)
